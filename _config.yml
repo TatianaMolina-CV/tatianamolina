@@ -1,7 +1,7 @@
+title: "Tatiana Molina"
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme
-title: "Tatiana Molina"          
+- jekyll-remote-theme         
 description: "Operations Leader | Uniting People, Tech & Data for Scalable Impact"
 show_downloads: false
 github:
