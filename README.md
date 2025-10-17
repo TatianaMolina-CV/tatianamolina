@@ -49,6 +49,9 @@ Learnt Hindi.
 - Achieved resellers loyalty score of 90%, directly signed exclusive deals up to 7 digits.
 
 ## EDUCATION AND TRAINING
+
 **Masters in Project Management** from University of Nice Sophia Antipolis, France September 2006 – June 2007
+
 **Masters in International Affairs (MBA)** from University of Lorraine, France Awarded an exceptional fellowship from the French government September 2005 – June 2006
+
 Master in Organizational Management, with distinction from Tomsk Polytechnic University, Russia September 2000 – June 2005
