@@ -12,6 +12,7 @@ Throughout my career I had fun leading multinational teams and turning strategic
 - Development and roll-out of Health score metrics for Customer success teams
 - Executive communication and stakeholder alignment
 - Fluent in French, English, Russian
+  
 ## PROFESSIONAL EXPERIENCE
 ## VP of Operations; MotorK (August 2022 – May 2025)
 - Led a 90-person department covering Business and Customer operations (Corporate systems, Support, Training, and Implementation teams) across European markets, fostering a culture of collaboration and accountability while introducing automation and AI-led initiatives.
