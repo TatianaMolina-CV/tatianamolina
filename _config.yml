@@ -3,8 +3,6 @@ plugins:
 - jekyll-remote-theme #
 title: Tatiana Molina
 Operations Leader | Uniting People, Tech & Data for Scalable Impact
-description: Tatiana Molina
-Operations Leader | Uniting People, Tech & Data for Scalable Impact
 show_downloads: false
 github:
   is_project_page: false
