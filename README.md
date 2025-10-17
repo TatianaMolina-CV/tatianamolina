@@ -54,4 +54,4 @@ Learnt Hindi.
 
 **Masters in International Affairs (MBA)** from University of Lorraine, France Awarded an exceptional fellowship from the French government September 2005 – June 2006
 
-Master in Organizational Management, with distinction from Tomsk Polytechnic University, Russia September 2000 – June 2005
+**Master in Organisational Management**, with distinction from Tomsk Polytechnic University, Russia September 2000 – June 2005
