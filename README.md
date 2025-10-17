@@ -1,9 +1,8 @@
 ## Welcome!
-## Summary
+### Summary  
 I am an Operations Leader with 20 years of experience driving international growth and business transformation across software and technology companies.
 Throughout my career I had fun leading multinational teams and turning strategic vision into measurable results. Proud to be recognised for a people-first approach and for building cultures that embrace innovation, accountability, and execution excellence. Adept at managing large-scale programs and PMO to deliver outcomes, I combine hands-on expertise in modern enterprise systems with pragmatic ownership of data and analytics. Focused on impact that truly matters, I’ve driven measurable efficiencies and revenue growth.
-
-#Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote strating from January 2026.#
+*Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote strating from January 2026.*
 
 ## My skills:
 - Scalable operations design & digital transformation (including AI adoption)
