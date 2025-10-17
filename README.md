@@ -1,3 +1,5 @@
+#Tatiana Molina
+#Please check my LinkedIn profile: https://www.linkedin.com/in/tatiana-molina-3953743a/
 ## Career highlights  
 I am an Operations Leader with 20 years of experience driving international growth and business transformation across software and technology companies.
 Throughout my career I had fun leading multinational teams and turning strategic vision into measurable results. Proud to be recognised for a people-first approach and for building cultures that embrace innovation, accountability, and execution excellence. Adept at managing large-scale programs and PMO to deliver outcomes, I combine hands-on expertise in modern enterprise systems with pragmatic ownership of data and analytics. Focused on impact that truly matters, I’ve driven measurable efficiencies and revenue growth.
