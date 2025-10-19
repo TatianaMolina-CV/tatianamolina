@@ -1,4 +1,4 @@
-# Tatiana Molina
+**Tatiana Molina**
 ### Contact details
 LinkedIn profile: https://www.linkedin.com/in/tatiana-molina-3953743a/
 
