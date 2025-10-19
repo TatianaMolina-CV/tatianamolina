@@ -23,7 +23,7 @@ Throughout my career I thrived on leading multinational teams and turning strate
 - Executive communication and stakeholder alignment
 - Fluent in French, English, Russian
 
-  ## Systems and tools:
+## Systems and tools:
 - Salesforce; NetSuite; Salesfolt; Outreach; Cognism; Dealhub; Gong; Planhat; Rocketlane; Jira; Confluence; Zendesk; Freshdesk
   
 ## PROFESSIONAL EXPERIENCE
