@@ -4,7 +4,7 @@
 
 [Email](mailto:tatiakam@gmail.com)
 
-Location: Maidenhead, UK
+Location: Greater London Area, UK
 
 ## Career highlights  
 I am an Operations Leader with 20 years of experience driving international growth and business transformation across software and technology companies.
