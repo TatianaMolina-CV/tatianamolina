@@ -29,14 +29,16 @@ Focused on impact that truly matters, I thrive on leading multinational teams an
   
 ## PROFESSIONAL EXPERIENCE
 
-### VP of Operations; MotorK (August 2022 – May 2025)
+### VP of Operations; MotorK (June 2024 – May 2025)
 - Transformed for success a **90-person department** covering Business and Customer operations (Corporate systems, Support, Training, and Implementation teams) across European markets, fostering a culture of collaboration and accountability while introducing **automation and AI-led initiatives**.
-- Designed and rolled out a **unified customer success journey**, ensuring consistent customer onboarding and product adoption.
 - Delivered 40% YoY growth in Implementation and 20% in Training revenues, balancing automation with high-quality customer engagement, all while reducing team size by 10% thanks to smart automation resulting in **higher profitability and sustainable workloads**.
+- Designed and rolled out a **unified customer success journey**, ensuring consistent customer onboarding and product adoption.
+- Designed and delivered **customer health dashboards** resulting in faster product adoption and actionable growth insights for Customer Success Managers.
+
+### Head of Business Operations and PMO; MotorK (August 2022 – May 2024)
+- Managed Project management office, driving successful internal programmes **(ISO27001 certification obtained)**, as well as delivery of complex enterprise customer projects.
 - Transformed business intelligence and business operations team to develop actionable insights and dashboards for Senior management **(ownership of CRM, ERP, BI tools)**
-- Redesigned **lead-to-cash** and contract processes, increasing transparency of the funnel and improving closing rates.
-- Managed Project management office, driving successful internal programmes **(ISO27001 certification received)** to complex enterprise customer delivery.
-- Designed and delivered **customer health dashboards** to create actionable growth insights for Customer Success Managers.
+- **Redesigned lead-to-cash** and contract processes, increasing transparency of the funnel and improving closing rates by 5% in the first 3 months.
   
 ### Operations Director; Thomas International (April 2021-August 2022)
 - Delivered scalable operations across 7 direct markets in Europe, Africa, and Asia, including introduction of the new **GTM strategy and customer terms** improving revenue recognition.
