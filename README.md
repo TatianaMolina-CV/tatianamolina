@@ -8,7 +8,7 @@ Location: Greater London Area, UK
 
 ## Career highlights  
 I am an Operations Leader with 20 years of experience driving **international growth and business transformation** across software and technology companies.
-Focused on impact that truly matters, I thrive on leading multinational teams and turning **strategic vision into measurable results**. Adept at managing large-scale programs and PMO to deliver outcomes, I combine hands-on expertise in modern technology with pragmatic ownership of data and analytics. I believe in a people-first approach and have been recognized for fostering cultures that embrace innovation, accountability, and execution excellence.
+Focused on impact that truly matters, I thrive on leading multinational teams and turning **strategic vision into measurable results**. Adept at managing large-scale programmes and PMO to deliver outcomes, I combine hands-on expertise in modern technology with pragmatic ownership of data and analytics. I believe in a people-first approach and have been recognized for fostering cultures that embrace innovation, accountability, and execution excellence.
 
 *Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote starting from January 2026.*
 
