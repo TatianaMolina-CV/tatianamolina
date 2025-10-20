@@ -64,8 +64,8 @@ Learnt Hindi.
 
 ## EDUCATION AND TRAINING
 
-**Masters in Project Management** from University of Nice Sophia Antipolis, France September 2006 – June 2007
+**Master's in Project Management** from University of Nice Sophia Antipolis, France September 2006 – June 2007
 
-**Masters in International Affairs (MBA)** from University of Lorraine, France Awarded an exceptional fellowship from the French government September 2005 – June 2006
+**Master's in International Affairs (MBA)** from University of Lorraine, France Awarded an exceptional fellowship from the French government September 2005 – June 2006
 
-**Masters in Organisational Management**, with distinction from Tomsk Polytechnic University, Russia September 2000 – June 2005
+**Master's in Organisational Management**, with distinction from Tomsk Polytechnic University, Russia September 2000 – June 2005
