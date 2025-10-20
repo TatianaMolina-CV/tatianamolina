@@ -7,8 +7,8 @@
 Location: Greater London Area, UK
 
 ## Career highlights  
-I am an Operations Leader with 20 years of experience driving international growth and business transformation across software and technology companies.
-Throughout my career I thrived on leading multinational teams and turning strategic vision into measurable results. Proud to be recognised for a people-first approach and for building cultures that embrace innovation, accountability, and execution excellence. Adept at managing large-scale programs and PMO to deliver outcomes, I combine hands-on expertise in modern enterprise systems with pragmatic ownership of data and analytics. Focused on impact that truly matters, I’ve driven measurable efficiencies and revenue growth.
+I am an Operations Leader with 20 years of experience driving **international growth and business transformation** across software and technology companies.
+Focused on impact that truly matters, I thrive on leading multinational teams and turning **strategic vision into measurable results**. Adept at managing large-scale programs and PMO to deliver outcomes, I combine hands-on expertise in modern technology with pragmatic ownership of data and analytics. I believe in a people-first approach and have been recognized for fostering cultures that embrace innovation, accountability, and execution excellence.
 
 *Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote starting from January 2026.*
 
@@ -16,9 +16,9 @@ Throughout my career I thrived on leading multinational teams and turning strate
 - Scalable operations design & digital transformation (including AI adoption)
 - People-first leadership & cross-cultural collaboration
 - Strategic planning and change management
-- Business intelligence & data governance (CRM, ERP, BI tools ownership)
+- Business intelligence & data governance: CRM, ERP, BI tools ownership
 - Revenue operations and GTM strategies
-- Project management office (PMI Master degree)
+- Project management office (Master degree by PMI France)
 - Development of Health score metrics and other data-driven projects
 - Executive communication and stakeholder alignment
 - Expertise in customer success: project delivery, customer onboarding and ongoing support
