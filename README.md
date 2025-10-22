@@ -1,6 +1,7 @@
 **Contact details**
 
 [LinkedIn profile](https://www.linkedin.com/in/tatiana-molina-3953743a/)
+
 [Email](mailto:tatiakam@gmail.com)
 
 Phone: +44 7598680567
