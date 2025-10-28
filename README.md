@@ -20,7 +20,7 @@ Focused on impact that truly matters, I thrive on leading multinational teams an
 - Strategic planning and change management
 - Business intelligence & data governance: CRM, ERP, BI tools ownership
 - Revenue operations and GTM strategies
-- Project management office (Master degree by PMI France)
+- Project management office (Master's degree by PMI France)
 - Development of Health score metrics and other data-driven projects
 - Executive communication and stakeholder alignment
 - Expertise in customer success: project delivery, customer onboarding and ongoing support
