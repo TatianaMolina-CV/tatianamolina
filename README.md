@@ -39,7 +39,7 @@ Focused on impact that truly matters, I thrive on leading multinational teams an
 
 ### Head of Business Operations and PMO; MotorK (August 2022 – May 2024)
 - Managed Project management office, driving successful internal programmes, including **ISO27001 certification** and improved HR onboarding, as well as delivery of complex enterprise customer projects.
-- Transformed business intelligence and business operations team to develop actionable insights and dashboards for Senior management **(ownership of CRM, ERP, BI tools)**
+- Transformed business intelligence and business operations team to develop actionable insights and dashboards for Senior management **(ownership of CRM, ERP, BI tools)**.
 - **Redesigned lead-to-cash** and contract processes, increasing transparency of the funnel and improving closing rates by 5% in the first 3 months.
   
 ### Operations Director; Thomas International (April 2021-August 2022)
