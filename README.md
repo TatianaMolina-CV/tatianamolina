@@ -38,14 +38,14 @@ Focused on impact that truly matters, I thrive on leading multinational teams an
 - Designed and delivered **customer health dashboards** resulting in faster product adoption and actionable growth insights for Customer Success Managers.
 
 ### Head of Business Operations and PMO; MotorK (August 2022 – May 2024)
-- Managed Project management office, driving successful internal programmes **(ISO27001 certification obtained)**, as well as delivery of complex enterprise customer projects.
+- Managed Project management office, driving successful internal programmes, including **ISO27001 certification** and improved HR onboarding, as well as delivery of complex enterprise customer projects.
 - Transformed business intelligence and business operations team to develop actionable insights and dashboards for Senior management **(ownership of CRM, ERP, BI tools)**
 - **Redesigned lead-to-cash** and contract processes, increasing transparency of the funnel and improving closing rates by 5% in the first 3 months.
   
 ### Operations Director; Thomas International (April 2021-August 2022)
 - Delivered scalable operations across 7 direct markets in Europe, Africa, and Asia, including introduction of the new **GTM strategy and customer terms** improving revenue recognition.
 - Led operational **due diligence and integration during M&A** in the Netherlands, ensuring minimal disruption to staff and customers.
-- Delivered execution plan against growth strategy through **management of the PMO office**, including delivery of integration project directly and through a third-party intermediate.
+- Delivered execution plan against growth strategy through **management of the PMO office**, including delivery of integrations project directly and through a third-party intermediate.
 - Developed analytical insights for the business by **building up Revenue Operations function**.
   
 ### Channel Account Manager, team leader; Thomas International (September 2017-April 2021)
