@@ -32,37 +32,22 @@ Focused on impact that truly matters, I thrive on leading multinational teams an
 ## PROFESSIONAL EXPERIENCE
 
 ### VP of Operations; MotorK (June 2024 – May 2025)
-- Transformed for success a **90-person department** covering Business and Customer operations (Corporate systems, Support, Training, and Implementation teams) across European markets, fostering a culture of collaboration and accountability while introducing **automation and AI-led initiatives**.
-- Delivered 40% YoY growth in Implementation and 20% in Training revenues, balancing automation with high-quality customer engagement, all while reducing team size by 10% thanks to smart automation resulting in **higher profitability and sustainable workloads**.
-- Designed and rolled out a **unified customer success journey**, ensuring consistent customer onboarding and product adoption.
-- Designed and delivered **customer health dashboards** resulting in faster product adoption and actionable growth insights for Customer Success Managers.
+- Led the transformation of a **90-person Business and Customer Operations** organisation across Europe, driving a culture of accountability while launching automation and AI-led initiatives that elevated efficiency and collaboration. Delivered **substantial commercial impact** with 40% YoY growth in Implementation and 20% in Training revenues, with a 10% team reduction through smart automation, and new **customer-success frameworks and dashboards** that accelerated product adoption and enabled data-driven expansion.
 
 ### Head of Business Operations and PMO; MotorK (August 2022 – May 2024)
-- Managed Project management office, driving successful internal programmes, including **ISO27001 certification** and improved HR onboarding, as well as delivery of complex enterprise customer projects.
-- Transformed business intelligence and business operations team to develop actionable insights and dashboards for Senior management **(ownership of CRM, ERP, BI tools)**.
-- **Redesigned lead-to-cash** and contract processes, increasing transparency of the funnel and improving closing rates by 5% in the first 3 months.
+- Directed the PMO to deliver **complex enterprise projects** and secure ISO27001 certification, while **reshaping Business Operations and BI teams** to produce actionable insights for senior leadership across CRM, ERP, and BI ecosystems. Redesigned **lead-to-cash and contracting processes** to increase funnel visibility and **lifted closing rates by 5%** in the first three months. 
   
 ### Operations Director; Thomas International (April 2021-August 2022)
-- Delivered scalable operations across 7 direct markets in Europe, Africa, and Asia, including introduction of the new **GTM strategy and customer terms** improving revenue recognition.
-- Led operational **due diligence and integration during M&A** in the Netherlands, ensuring minimal disruption to staff and customers.
-- Delivered execution plan against growth strategy through **management of the PMO office**, including delivery of integrations project directly and through a third-party intermediate.
-- Developed analytical insights for the business by **building up Revenue Operations function**.
+- Built scalable, compliant operations across seven global markets, introducing a **new GTM model and commercial terms** that strengthened revenue recognition and operational consistency. Led **due diligence and integration for a Dutch acquisition** while establishing a Revenue Operations function that provided critical analytical insights for growth. 
   
 ### Channel Account Manager, team leader; Thomas International (September 2017-April 2021)
-- Transitioned **15+ countries to new distributor models with revenue uplift**, while maintaining people-first focus during change management, resulting in average in 10% revenue uplift in the first year. Closed distribution contracts with partners across NOAM, LATAM, APAC and EMEA.
-- Managed Channel Sales Development in EMEA with a focus on **global strategy, solution selling upskilling & contractual stability**, successfully achieving budget. Built a team of International Account Managers & related Support functions.
-- Implemented **a new partner program** and complete legal framework for the Channel business, including distribution agreements and customers terms.
-- **Set-up a new office in France**, including company incorporation & set up of operational processes. Ensured continuous operation on French market during transition period.
+- Drove transformation of **15+ countries to new distribution model**, generating an average 10% first-year revenue uplift across NOAM, LATAM, APAC and EMEA while building and **leading an international account management team**. Strengthened global channel performance through a new partner programme. 
   
-### Expatriation to Bangalore (India) following husband’s assignment/maternity leave. (February 2015–January 2017)
-Learnt Hindi. 
+### Expatriation to Bangalore, India (February 2015–January 2017)
+Took a career pause for an international relocation and maternity leave while maintaining professional development and cross-cultural experience (ie. learnt Hindi). 
 
 ### Strategic Business Development Manager; Dolby Labs (Doremi Labs prior to acquisition) (September 2006 – January 2015)
-- Led **unification of business processes** following the merger of Doremi with Dolby Labs including distribution network alignment.
-- Digitalised over 80% of all cinema screens in 7 years in Central and Eastern Europe, from 0%, effectively **creating the Digital Cinema market**.
-- **Evangelised digital content delivery** allowing the total market to grow.
-- Led marketing research to define “channels-to-market” and set up business strategy: **Gained 100+ corporate customers**. Achieved between 30% and 95% market share per country.
-- Achieved **resellers loyalty score of 90%**, directly signed exclusive deals up to 7 digits.
+- Unified business processes and distribution networks following the Dolby–Doremi merger, while spearheading the **digitalisation of over 80% of cinema screens** across Central and Eastern Europe, effectively **creating the Digital Cinema market from the ground up**. Led market research and channel-to-market strategies that secured 100+ corporate customers and delivered dominant market shares between 30% and 95% per country. 
 
 ## EDUCATION AND TRAINING
 
