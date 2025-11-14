@@ -44,7 +44,7 @@ Focused on impact that truly matters, I thrive on leading multinational teams an
 - Drove transformation of **15+ countries to new distribution model**, generating an average 10% first-year revenue uplift across NOAM, LATAM, APAC and EMEA while building and **leading an international account management team**. Strengthened global channel performance through a new partner programme. 
   
 ### Expatriation to Bangalore, India (February 2015–January 2017)
-Took a career pause for an international relocation and maternity leave while maintaining professional development and cross-cultural experience (ie. learnt Hindi). 
+- Took a career pause for an international relocation and maternity leave while maintaining professional development and cross-cultural experience (ie. learnt Hindi). 
 
 ### Strategic Business Development Manager; Dolby Labs (Doremi Labs prior to acquisition) (September 2006 – January 2015)
 - Unified business processes and distribution networks following the Dolby–Doremi merger, while spearheading the **digitalisation of over 80% of cinema screens** across Central and Eastern Europe, effectively **creating the Digital Cinema market from the ground up**. Led market research and channel-to-market strategies that secured 100+ corporate customers and delivered dominant market shares between 30% and 95% per country. 
