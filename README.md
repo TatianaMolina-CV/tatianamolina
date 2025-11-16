@@ -10,7 +10,7 @@ Location: Greater London Area, UK
 
 ## Career highlights  
 I am an Operations Leader with 20 years of experience driving **international growth and business transformation** across software and technology companies.
-Focused on impact that truly matters, I thrive on leading multinational teams and turning **strategic vision into measurable results**. Adept at managing large-scale programmes and PMO to deliver outcomes, I combine hands-on expertise in modern technology with pragmatic ownership of data and analytics. I believe in a people-first approach and have been recognized for fostering cultures that embrace innovation, accountability, and execution excellence.
+Focused on impact that truly matters, I thrive on leading multinational teams and turning **strategic vision into measurable results**. Adept at managing large-scale programmes and PMO to deliver outcomes, I combine hands-on expertise in modern technology with pragmatic ownership of data and analytics. I believe in a people-first approach and always work to build cultures that embrace innovation, accountability, and execution excellence.
 
 *Currently on a planned career break to support family projects, I am open to senior operations roles in the UK or remote starting from January 2026.*
 
@@ -33,7 +33,7 @@ Focused on impact that truly matters, I thrive on leading multinational teams an
 ## PROFESSIONAL EXPERIENCE
 
 ### VP of Operations; MotorK (June 2024 – May 2025)
-- Led the transformation of a **90-person Business and Customer Operations** organisation across Europe, driving a culture of accountability while launching automation and AI-led initiatives that elevated efficiency and collaboration. Delivered **substantial commercial impact** with 40% YoY growth in Implementation and 20% in Training revenues, with a 10% team reduction through smart automation, and new **customer-success frameworks and dashboards** that accelerated product adoption and enabled data-driven expansion.
+- Led the transformation of a **90-person Business and Customer Operations** organisation across Europe, launching automation and AI-led initiatives that elevated efficiency and collaboration. Delivered **substantial commercial impact** with 40% YoY growth in Implementation and 20% in Training revenues, with a 10% team reduction through smart automation, as well as new **customer-success frameworks and dashboards** that accelerated product adoption and enabled data-driven expansion.
 
 ### Head of Business Operations and PMO; MotorK (August 2022 – May 2024)
 - Directed the PMO to deliver **complex enterprise projects** and secure ISO27001 certification, while **reshaping Business Operations and BI teams** to produce actionable insights for senior leadership across CRM, ERP, and BI ecosystems. Redesigned **lead-to-cash and contracting processes** to increase funnel visibility and **lifted closing rates by 5%** in the first three months. 
